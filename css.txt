@@ -1,2 +1,0 @@
-css não é uma linguagem de programação é uma folha de estilo em 
-cascata para colocar estilo no html (linguagem de marcação)
