@@ -1,4 +1,16 @@
+nome da professora = kai pimenta ,mentor= igor.
 css não é uma linguagem de programação é uma folha de estilo em 
 cascata para colocar estilo no html (linguagem de marcação)
 
 1 - perguntar pro professor como instalar a extenção web developer?
+
+
+sites responsivos são aquele que se adaptam a varias plataformas plataformas
+01-codigo limpo
+02-evite estilos inlines
+03-use grids flexiveis,flexboxs
+04-evite estilos absolutos
+05-use media querys = delimita os estilos do tablet ,do smartfone e desktop.
+
+mobile first - criar primeiro pensando no celular para depois adaptar para telas maiores,
+por que de acordo com pesquisas 68% da população usam o celular como forma de acessar a internet
