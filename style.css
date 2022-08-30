@@ -1,10 +1,25 @@
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* alinhar o texto */
+    text-align: center;
+    border-color: black;
 }
-h1,span{
-    color: rgb(231, 10, 10);
+
+h1{
+    color: rgb(221, 15, 15);
 }
-/* o css funciona em cascata sempre vale o ultimo valor atribuido */
-span{
-    color: rgba(26, 128, 211, 0.867);
+
+#login{
+    background-color: rgb(5, 122, 218);
+    color: rgb(231, 210, 25);
+}
+
+#registre-se{
+    background-color: blueviolet;
+    color: azure;
+}
+.copy{
+    background-color: blueviolet;
+    color: azure;
+    font-size: 8px;
 }
