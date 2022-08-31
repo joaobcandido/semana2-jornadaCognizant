@@ -13,4 +13,4 @@ sites responsivos são aquele que se adaptam a varias plataformas plataformas
 05-use media querys = delimita os estilos do tablet ,do smartfone e desktop.
 
 mobile first - criar primeiro pensando no celular para depois adaptar para telas maiores,
-por que de acordo com pesquisas 68% da população usam o celular como forma de acessar a internet
+
