@@ -3,6 +3,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    color: rgb(121, 93, 18);
 
 }
 ul{
@@ -10,4 +11,12 @@ ul{
 }
 a{
     text-decoration: none;
+}
+body{
+   /* background-image: url(./pexels-dominika-mazur-13054281.jpg) ;
+   background-position: center center fixed ;
+   background-repeat: no-repeat; */
+   /* gerando um cor gradiente para o fundo */
+   background: linear-gradient(90deg, #45a247,#283c86);
+   
 }
