@@ -3,11 +3,20 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    color: rgb(121, 93, 18);
+    color: rgb(5, 36, 46);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
 ul{
    list-style: none; 
+   font-size: 30px;
+   display: flex;
+   justify-content: space-evenly;
+  
+   
+}
+li{
+    padding: 10px;
 }
 a{
     text-decoration: none;
@@ -19,4 +28,34 @@ body{
    /* gerando um cor gradiente para o fundo */
    background: linear-gradient(90deg, #45a247,#283c86);
    
+}
+.container{
+    text-align: center;
+}
+.container .name h1{
+    font-size: 70px;
+}
+.container .name h5{
+    font-size: 20px;
+}
+
+#about p {
+    max-width: 600px;
+    margin:  0 auto;
+}
+.form{
+    width: 40%;
+    margin:  0 auto;
+    
+}
+.form input{
+    width: 50%;
+}
+.form button{
+    width: 15%;
+}
+header{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
 }
