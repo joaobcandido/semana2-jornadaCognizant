@@ -17,9 +17,16 @@ ul{
 }
 li{
     padding: 10px;
+
 }
 a{
     text-decoration: none;
+    color: #aaa;
+    
+}
+a:hover{
+    text-decoration: none;
+    color: rgb(223, 238, 12);
 }
 body{
    /* background-image: url(./pexels-dominika-mazur-13054281.jpg) ;
@@ -58,4 +65,7 @@ header{
     display: flex;
     justify-content:space-around;
     align-items: center;
+    /* border: 5px solid rgb(56, 11, 179) ; */
+    /* box-shadow: 1px 1px 10px 1px #fff; */
+    /* border-bottom:15px ridge #fff ; */
 }
